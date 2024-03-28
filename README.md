@@ -1,4 +1,4 @@
-# codeClause
+# Exploratory Data Analysis (EDA) on Iris Dataset
 This is iris dataset which contains length of varies parameters of three types of flowers namely setosa, versicolor, and virginia. The dataset contains 3 classes of 50 instances each, where each class is a type of flower.
 
 # Attributes :-
