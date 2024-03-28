@@ -1,12 +1,12 @@
 # codeClause
 This is iris dataset which contains length of varies parameters of three types of flowers namely setosa, versicolor, and virginia. The dataset contains 3 classes of 50 instances each, where each class is a type of flower.
 
-Attributes :-
-Sepal length in cm
-Sepal width in cm
-Petal length in cm
-Petal width in cm
-class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
+# Attributes :-
+- Sepal length in cm
+- Sepal width in cm
+- Petal length in cm
+- Petal width in cm
+- class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 # Iris Dataset Exploratory Data Analysis (EDA)
 
